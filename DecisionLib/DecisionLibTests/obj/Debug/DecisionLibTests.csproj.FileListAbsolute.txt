@@ -1,0 +1,10 @@
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\bin\Debug\DecisionLibTests.dll
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\bin\Debug\DecisionLibTests.pdb
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\bin\Debug\DecisionLib.dll
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\bin\Debug\nunit.framework.dll
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\bin\Debug\DecisionLib.pdb
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\bin\Debug\nunit.framework.pdb
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\bin\Debug\nunit.framework.xml
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\obj\Debug\DecisionLibTests.csprojResolveAssemblyReference.cache
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\obj\Debug\DecisionLibTests.dll
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLibTests\obj\Debug\DecisionLibTests.pdb

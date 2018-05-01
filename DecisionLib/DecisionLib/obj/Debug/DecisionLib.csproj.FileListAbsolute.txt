@@ -1,0 +1,5 @@
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLib\bin\Debug\DecisionLib.dll
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLib\bin\Debug\DecisionLib.pdb
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLib\obj\Debug\DecisionLib.csprojResolveAssemblyReference.cache
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLib\obj\Debug\DecisionLib.dll
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\DecisionLib\obj\Debug\DecisionLib.pdb

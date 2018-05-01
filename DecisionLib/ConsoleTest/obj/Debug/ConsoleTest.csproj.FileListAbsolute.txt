@@ -1,0 +1,8 @@
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\ConsoleTest\bin\Debug\DecisionLib.dll
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\ConsoleTest\bin\Debug\DecisionLib.pdb
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\Athight\GitRepos\DecisionHandling\DecisionLib\ConsoleTest\obj\Debug\ConsoleTest.pdb
